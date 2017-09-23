@@ -1,5 +1,5 @@
 /**
-* Just a little test
+* Just a little test.
 *
 */
 package com.example;
